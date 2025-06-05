@@ -1,0 +1,5 @@
+com\redis\cache\crud\example\weather\repository\WeatherDetailsRepo.class
+com\redis\cache\crud\example\weather\service\WeatherDetailsService.class
+com\redis\cache\crud\example\weather\entity\Weather.class
+com\redis\cache\crud\example\weather\util\WeatherApplication.class
+com\redis\cache\crud\example\weather\controller\WeatherController.class
